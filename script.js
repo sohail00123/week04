@@ -12,7 +12,7 @@ function calculateTotalCost(basket, prices) {
     return totalCost;
 }
 
-// Example usage:
+
 const basket = {
     apples: 2,
     bananas: 3,
