@@ -1,5 +1,5 @@
 
-alert("script loaded")
+alert("Loaded Basket JS")
 function calculateTotalCost(basket, prices) {
     let totalCost = 0;
 
